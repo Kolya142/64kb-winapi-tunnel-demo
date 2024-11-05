@@ -1,0 +1,1 @@
+gcc main.c -Wall -Os -s -fno-ident -o smalltunneleffect.exe -ffreestanding "C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\um\x64\Gdi32.Lib"
